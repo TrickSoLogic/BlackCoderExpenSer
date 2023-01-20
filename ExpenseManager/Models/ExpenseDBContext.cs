@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExpenseManager.Models
+namespace BlackCoderExpenSer.Models
 {
     public class ExpenseDBContext : DbContext
     {

@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ExpenseManager.Interfaces;
-using ExpenseManager.Models;
+using BlackCoderExpenSer.Interfaces;
+using BlackCoderExpenSer.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ExpenseManager.Controllers
+namespace BlackCoderExpenSer.Controllers
 {
     public class ExpenseController : Controller
     {

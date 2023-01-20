@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace ExpenseManager.Migrations
+namespace BlackCoderExpenSer.Migrations
 {
     public partial class init : Migration
     {

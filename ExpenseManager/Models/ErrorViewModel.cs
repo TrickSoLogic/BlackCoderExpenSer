@@ -1,6 +1,6 @@
 using System;
 
-namespace ExpenseManager.Models
+namespace BlackCoderExpenSer.Models
 {
     public class ErrorViewModel
     {
